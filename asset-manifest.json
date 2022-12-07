@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/maximka65/test_web/static/css/main.c2cab247.css",
+    "main.js": "/maximka65/test_web/static/js/main.fdf457a1.js",
+    "index.html": "/maximka65/test_web/index.html",
+    "main.c2cab247.css.map": "/maximka65/test_web/static/css/main.c2cab247.css.map",
+    "main.fdf457a1.js.map": "/maximka65/test_web/static/js/main.fdf457a1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2cab247.css",
+    "static/js/main.fdf457a1.js"
+  ]
+}
