@@ -9,6 +9,7 @@ const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
     <BrowserRouter>
+      <Router basename='blackcodher-react-mybookcase2'></Router>
       <Router />
     </BrowserRouter>
   </React.StrictMode>,
