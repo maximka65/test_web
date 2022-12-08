@@ -1,7 +1,7 @@
 {
   "name": "max-cucer-job",
   "version": "0.1.0",
-  "homepage": "https://maximka65.github.com",
+  "homepage": "https://maximka65.github.com/test_web",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
